@@ -1,0 +1,1 @@
+/script TargetPlayer(towstring(GameData.Player.name))
